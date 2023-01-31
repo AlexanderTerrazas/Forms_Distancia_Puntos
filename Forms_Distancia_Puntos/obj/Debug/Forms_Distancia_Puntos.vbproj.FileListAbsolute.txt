@@ -1,0 +1,12 @@
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\bin\Debug\Forms_Distancia_Puntos.exe.config
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\bin\Debug\Forms_Distancia_Puntos.exe
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\bin\Debug\Forms_Distancia_Puntos.pdb
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\bin\Debug\Forms_Distancia_Puntos.xml
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.vbprojAssemblyReference.cache
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.Form1.resources
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.Resources.resources
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.vbproj.GenerateResource.cache
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.vbproj.CoreCompileInputs.cache
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.exe
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.xml
+C:\Users\52866\source\repos\Forms_Distancia_Puntos\Forms_Distancia_Puntos\obj\Debug\Forms_Distancia_Puntos.pdb
